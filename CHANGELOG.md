@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.7-xmr (2023-09-15)
+
+### Fix
+
+* uncaught type error with MathJax (pending PR)
+
 
 ## 1.4.7 (2023-06-24)
 
